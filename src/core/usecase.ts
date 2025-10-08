@@ -1,3 +1,5 @@
+"use server"
+
 import { getDependencies } from "@/dependencies";
 import { Task } from "./models";
 
